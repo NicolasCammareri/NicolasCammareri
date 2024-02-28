@@ -6,7 +6,7 @@ Développeur FullStack
 
 👋 Passionné de développement web, je me spécialise dans l'écosystème React, Next.js, et Node.js. J'aime explorer et maîtriser les technologies modernes pour créer des applications web performantes et innovantes.
 
-🌱 Actuellement, je plonge dans les dernières fonctionnalités de React et Next.js pour développer des solutions FullStack dynamiques, tout en exploitant la puissance de Node.js ou Edge pour des back-ends robustes.
+🌱 Actuellement, je plonge dans les dernières fonctionnalités de Next.js pour développer des solutions FullStack dynamiques, tout en exploitant la puissance de Node.js ou Edge pour des back-ends robustes.
 
 🔭 Je suis constamment à la recherche de nouvelles connaissances. L'apprentissage continu et l'expérimentation avec de nouvelles technologies sont vraiment des sources de motivations.
 

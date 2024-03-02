@@ -1,23 +1,23 @@
-Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Nicolas Cammareri
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Nicolas Cammareri
 =========================================================================================================================================
 
-Développeur FullStack
+FullStack Developer
 ---------------------
 
-👋 Passionné de développement web, je me spécialise dans l'écosystème React, Next.js, et Node.js. J'aime explorer et maîtriser les technologies modernes pour créer des applications web performantes et innovantes.
+👋 Passionate about web development, I specialize in the React, Next.js, and Node.js ecosystem. I love exploring and mastering modern technologies to create high-performance, innovative web applications.
 
-🌱 Actuellement, je plonge dans les dernières fonctionnalités de Next.js pour développer des solutions FullStack dynamiques, tout en exploitant la puissance de Node.js ou Edge pour des back-ends robustes.
+🌱 Currently, I'm diving into the latest Next.js features to develop dynamic FullStack solutions, while harnessing the power of Node.js or Edge for robust back-ends.
 
-🔭 Je suis constamment à la recherche de nouvelles connaissances. L'apprentissage continu et l'expérimentation avec de nouvelles technologies sont vraiment des sources de motivations.
+🔭 I'm constantly on the lookout for new knowledge. Continuous learning and experimentation with new technologies are really motivating.
 
-💬 N'hésitez pas à me contacter si vous souhaitez discuter de projets de développement ou d'infrastructures.
+💬 Please don't hesitate to contact me if you'd like to discuss development or infrastructure projects.
 
-* 🌍  Je suis sur Nimes et Montpellier
-* ✉️  Vous pouvez me contacter a [nicolas.cammareri.github@gmail.com](mailto:nicolas.cammareri.github@gmail.com)
-* 🚀  Actuellement je travail chez [Bastide le confort medical](http://www.bastideleconfortmedical.com/)
-* 🧠  En ce moment j'apprend Next.Js
-* 🤝  Je suis ouvert a des collaborations sur des Saas, ou projets commeriaux
-* ⚡  Et sinon je suis un être humain
+* 🌍 I'm based in Nimes and Montpellier.
+* ✉️ You can contact me at [nicolas.cammareri.github@gmail.com](mailto:nicolas.cammareri.github@gmail.com)
+* 🚀 I'm currently working at [Bastide le confort medical](http://www.bastideleconfortmedical.com/)
+* 🧠 I'm currently learning Next.Js
+* 🤝 I'm open to collaborations on Saas, or commercial projects
+* ⚡ And otherwise I'm a human being
 
 ### Skills
 

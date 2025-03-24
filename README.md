@@ -14,7 +14,7 @@ FullStack Developer
 
 * 🌍 I'm based in Nimes and Montpellier.
 * ✉️ You can contact me at [nicolas.cammareri.github@gmail.com](mailto:nicolas.cammareri.github@gmail.com)
-* 🚀 I'm currently working at [Bastide le confort medical](http://www.bastideleconfortmedical.com/)
+* 🚀 I'm currently working at [CHU Nîmes](https://www.chu-nimes.fr/)]
 * 🧠 I'm currently learning Next.Js
 * 🤝 I'm open to collaborations on Saas, or commercial projects
 * ⚡ And otherwise I'm a human being
